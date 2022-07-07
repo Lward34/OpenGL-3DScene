@@ -1,5 +1,5 @@
 
-Date:December 9,2021
+December 9,2021
 Developer/Author: Lilian Ward
 
 This project aims to develop a single three-graph scene composed of the OpenGL graphical components, including transformation methods. 

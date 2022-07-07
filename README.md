@@ -1,4 +1,4 @@
-File: Image2D.java
+
 Date: October 21, 2021
 Purpose: This program generates 2D graphics 
 of 3 images of letters T,Square,P

@@ -1,1 +1,43 @@
 
+Purpose: This program generates 2D graphics 
+of 3 images of letters T,Square,P
+rotate 55 counter clockwise and 75 clockwise.
+
+I created three simple images of my choice: two letters (T and P) and one shape (Square) between them. 
+Each image has a size of 25x25 pixels in two different colors (Green and Blue) and uses transformation methods to translate, 
+rotate, and scale each of the letters and the shape as mentioned in the instructions.
+When executing this program, it starts with frame 0. It starts at this position before any animation is conducted. 
+Then, images shifted to the left -5 pixels in the x-direction in frame 1, and move up +7 pixels in the y-direction in frame 2. 
+Frame 3 rotates at 45 degrees (Rotates each image counterclockwise), and then, rotates each image 90 degrees clockwise in Frame 4. 
+Frame 5 gets longer and the images get thinner in frame 6 (final transformation).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

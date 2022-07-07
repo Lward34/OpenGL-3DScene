@@ -5,6 +5,13 @@ Description: When the program starts will automatically create a GUI panel with 
 
 
 
+
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/79439802/177706038-09eccb28-d0a0-4f60-9d56-e59c7f9c1ee0.png)
 
 
